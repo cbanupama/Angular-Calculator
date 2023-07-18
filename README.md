@@ -1,3 +1,5 @@
+<img width="448" alt="Screenshot 2023-07-18 at 4 01 55 PM" src="https://github.com/cbanupama/Angular-Calculator/assets/34545482/3cb0adbd-8c46-4e32-9f23-9257918954f4">
+
 # Calculator
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.5.
@@ -25,3 +27,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+
